@@ -15,14 +15,14 @@
 import json
 from colorama import Fore, Back, Style
 
-
-
 new_dict = {
     "work out the solution": ["18.08.2021", "найти решение проблемы"],
     "reproduce": ["18.07.2021+3", "воспроизводить"],
 }
 
 print(len(new_dict))
+
+
 # print(new_dict["UDP(User Datagram Protocol) -> socket.SOCK_DGRAM"])
 
 def change_data(key):
@@ -32,35 +32,37 @@ def change_data(key):
         day, month = response.split()
         new_dict[key][0] = f"{day}.{month}.2021"
 
+
 def foo():
     """функция которая выводит слова с указаной датой и меняет ее на указаную. Есть пробелы
     для того чтобы увидеть слово
     data - определяет какое именно число нужно повторять слова"""
-    data = int(input(f'Введите цифру которая присвоенна дате которую хотите повторить {all_data()}\n'))
-    data = all_data()[data-1][1]
+    data = int(
+        input(f'Введите цифру которая присвоенна дате которую хотите повторить {all_data()}\n'))
+    data = all_data()[data - 1][1]
     lang = input('Напишите rus или eng или both. Чтобы выбрать язык:\n')
     if lang == 'eng':
         for key in new_dict.keys():  # Санчала английские слова
-            if new_dict[key][0] == data: # Запрашиваем конкретную дату.
+            if new_dict[key][0] == data:  # Запрашиваем конкретную дату.
                 print(Fore.CYAN + key)
                 need_to_repeat(key)
                 print(Fore.CYAN + key, '--> ', end='')
                 print(Fore.GREEN + new_dict[key][1])
                 print(Style.RESET_ALL)
-                print(f'\n{"*"*80}')
-
-
+                print(f'\n{"*" * 80}')
+    
+    
     elif lang == 'rus':
         for key in new_dict.keys():  # Санчала английские слова
-            if new_dict[key][0] == data: # Запрашиваем конкретную дату.
+            if new_dict[key][0] == data:  # Запрашиваем конкретную дату.
                 print(Fore.GREEN + new_dict[key][1])
                 need_to_repeat(key)
-                print(Fore.GREEN + new_dict[key][1], '--> ', end = '')
+                print(Fore.GREEN + new_dict[key][1], '--> ', end='')
                 print(Fore.CYAN + key)
                 print(Style.RESET_ALL)
-                print(f'\n{"*"*80}')
-
-
+                print(f'\n{"*" * 80}')
+    
+    
     elif lang == 'both':
         for key in new_dict.keys():  # Санчала английские слова
             if new_dict[key][0] == data:  # Запрашиваем конкретную дату.
@@ -85,17 +87,25 @@ def need_to_repeat(dict_key):
         with open('repeat.txt', 'a') as f:
             f.write(f'{new_dict[dict_key][1]} - {dict_key}\n')
 
+
 def today_task():
     """Функция будет брать из словаря только те слова которые подпадают под дату."""
     pass
 
+
 foo()
+
 
 def json_creator(new_dict):
     '''Фунция преобразования dict в json'''
     with open("data_file.json", "w", encoding='utf-8') as write_file:
-        json.dump(new_dict ,write_file, ensure_ascii=False, indent=4)
+        json.dump(new_dict, write_file, ensure_ascii=False, indent=4)
+
 
 # json_creator(new_dict)
-print(Fore.CYAN + 'красный' )
-print(Fore.GREEN + 'зеленый' )
+print(Fore.CYAN + 'красный')
+print(Fore.GREEN + 'зеленый')
+
+
+def subtraction(a, b):
+    return a - b
