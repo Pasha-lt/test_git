@@ -1,0 +1,1000 @@
+  983  grep my_func.py
+  984  pwd
+  985  cd Desktop/
+  986  ls
+  987  history | grep python3 
+  988  ls
+  989  grep my_func
+  990  find  -name "my_func.py"
+  991  sudo find  -name "my_func.py"
+  992  pip3 install colorama
+  993  python3 -m pip3 install colorama
+  994  python3 -m pip install colorama
+  995  python3 pip install colorama
+  996  pip3 install colorama
+  997  sudo pip3 install colorama
+  998  pip3 install colorama
+  999  python3 -m pip install --upgrade pip
+ 1000  pip3 install colorama
+ 1001  colorama
+ 1002  pip freeze | grep colorama
+ 1003  python3 English_bot.py 
+ 1004  python3
+ 1005  16*3|python3
+ 1006  python3
+ 1007  python3 | 16*3
+ 1008  python3
+ 1009  оод
+ 1010  python3 English_bot.py 
+ 1011  -==start study==-
+ 1012  Ctrl+alt+t горячие кнопки вызова терминала  также можно написать в поиске терминал и оно найдет.
+ 1013  Ctrl+shift+t - открытие еще одного окна терминала, работает только когда терминал уже запущен.
+ 1014  history
+ 1015  man history
+ 1016  pwd
+ 1017  cd Desktop/
+ 1018  cd tro/
+ 1019  ll
+ 1020  cd ..
+ 1021  tree tro
+ 1022  cd tro
+ 1023  pwd
+ 1024  pwd - просмотр текущей директории
+ 1025  cd - переход в директорию
+ 1026  cd ..
+ 1027  cd tro/12312/
+ 1028  ls
+ 1029  cd ..
+ 1030  ls
+ 1031  man ls
+ 1032  ls -a
+ 1033  ls l
+ 1034  ls -l
+ 1035  mkdir 123 && cd 123
+ 1036  cd ..
+ 1037  ls -l
+ 1038  ll
+ 1039  chmod a+x Kostyshen_aqa.pdf 
+ 1040  ll
+ 1041  chmod a-x Kostyshen_aqa.pdf 
+ 1042  ll
+ 1043  chmod u+x Kostyshen_aqa.pdf 
+ 1044  ll
+ 1045  echo 'привет' > q.txt
+ 1046  ls
+ 1047  ll
+ 1048  chmod a-w q.txt 
+ 1049  chmod u+w q.txt 
+ 1050  ll
+ 1051  cat q.txt 
+ 1052  vi q.txt
+ 1053  nano q.txt 
+ 1054  history
+ 1055  history > lesson_1.txt
+ 1056  ll
+ 1057  man ll
+ 1058  man ls
+ 1059  ls -i
+ 1060  ls -k
+ 1061  ды
+ 1062  ls
+ 1063  '12'>1.txt
+ 1064  1>1.txt
+ 1065  echo '12'>1.txt
+ 1066  nano 1.txt 
+ 1067  echo '40'>1.txt
+ 1068  nano 1.txt 
+ 1069  echo '12'>>1.txt
+ 1070  nano 1.txt 
+ 1071  rm 1.txt 
+ 1072  ls
+ 1073  ll
+ 1074  ls
+ 1075  rm 1
+ 1076  ll
+ 1077  -==start==-
+ 1078  history
+ 1079  vi 1.txt
+ 1080  jobs -l
+ 1081  fg "%man" 
+ 1082  jobs -l
+ 1083  fg 5256
+ 1084  fg "%man" 
+ 1085  jobs -l
+ 1086  fg "%man" 
+ 1087  jobs -l
+ 1088  fg "%man" 
+ 1089  jobs -l
+ 1090  man ls
+ 1091  jobs -l
+ 1092  kill 7059
+ 1093  jobs -l
+ 1094  sudo kill 7059
+ 1095  jobs -l
+ 1096  kill -9
+ 1097  kill -9 7059
+ 1098  jobs -l
+ 1099  man ls
+ 1100  ls
+ 1101  jobs -l
+ 1102  sudo kill -9 7282
+ 1103  jobs -l
+ 1104  python3 test_class.py 
+ 1105  ls
+ 1106  https://github.com/Pasha-lt/english_application.git
+ 1107  git clone https://github.com/Pasha-lt/english_application.git
+ 1108  ls
+ 1109  cd english_application/
+ 1110  ls
+ 1111  pytho3 test_class.py 
+ 1112  pytho3 test_class.py
+ 1113  python3 test_class.py
+ 1114  python3 main.py 
+ 1115  ls
+ 1116  git status
+ 1117  git add main.py 
+ 1118  git commit -m 'adhere to DRY'
+ 1119  git push
+ 1120  ls
+ 1121  git statsus
+ 1122  git status
+ 1123  git add main.py data.py 
+ 1124  git status
+ 1125  git commit -m 'Переписал на классы'
+ 1126  git push
+ 1127  ls
+ 1128  python3 main.py 
+ 1129  git status
+ 1130  git add data.py 
+ 1131  git commit -m 'добавил слов'
+ 1132  git push
+ 1133  py
+ 1134  python3 main.py 
+ 1135  git status
+ 1136  git diff main.py
+ 1137  git add -u
+ 1138  git status
+ 1139  git push
+ 1140  git commit -m'19_07_2021'
+ 1141  git push
+ 1142  git add -u
+ 1143  git status
+ 1144  git commit -m 'new words and fix'
+ 1145  git push
+ 1146  git log
+ 1147  python3 main.py 
+ 1148  [A
+ 1149  python3 main.py 
+ 1150  ipython main.py -i
+ 1151  python3 main.py 
+ 1152  git diff main.py
+ 1153  git diff data.py
+ 1154  git status
+ 1155  git add -u
+ 1156  git commit -m 'fix problem with "list out of range"'
+ 1157  git push
+ 1158  python3 main.py 
+ 1159  git add -u
+ 1160  git commit -m 'fix type erroe'
+ 1161  python3 main.py 
+ 1162  git push
+ 1163  git status
+ 1164  git add -p repeat.txt 
+ 1165  git status
+ 1166  git add -p main.py 
+ 1167  git status
+ 1168  nano execute_me.sh
+ 1169  mv execute_me.sh script.sh
+ 1170  ll
+ 1171  sudo chmod u+x script.sh 
+ 1172  ll
+ 1173  nano script.sh 
+ 1174  ./script.sh 
+ 1175  nano script.sh 
+ 1176  ./script.sh 
+ 1177  nano script.sh 
+ 1178  python3
+ 1179  nano script.sh 
+ 1180  ./script.sh 
+ 1181  ls
+ 1182  nano script.sh 
+ 1183  ./script.sh 
+ 1184  ls
+ 1185  nano script.sh 
+ 1186  rm -r env/
+ 1187  ./script.sh 
+ 1188  ll
+ 1189  rm -r env
+ 1190  ls
+ 1191  nano 
+ 1192  nano script.sh 
+ 1193  bash script.sh
+ 1194  source env/bin/activate
+ 1195  deactivate
+ 1196  ls
+ 1197  rm -r env/
+ 1198  nano script.sh 
+ 1199  bash script.sh source
+ 1200  ls
+ 1201  rm -r env/ 
+ 1202  pwd
+ 1203  nano script.sh 
+ 1204  bash script.sh source
+ 1205  rm -r script.sh 
+ 1206  ls
+ 1207  rm -r env/
+ 1208  nano script.sh
+ 1209  bash script.sh 
+ 1210  ls
+ 1211  rm - env/
+ 1212  rm -r env/
+ 1213  nano script.sh
+ 1214  bash script.sh 
+ 1215  rm -r env/
+ 1216  bash script.sh 
+ 1217  rm -r env/
+ 1218  nano script.sh
+ 1219  bash script.sh 
+ 1220  ды
+ 1221  ls
+ 1222  rm -r env/
+ 1223  nano script.sh
+ 1224  bash script.sh 
+ 1225  nano script.sh 
+ 1226  rm -r env/
+ 1227  ls
+ 1228  bash script.sh 
+ 1229  ls
+ 1230  nano sc.sh
+ 1231  sudo chmod u+x sc.sh 
+ 1232  ./sc.sh 
+ 1233  ll
+ 1234  sudo chmod u+x script.sh 
+ 1235  ls
+ 1236  rm -r env/
+ 1237  ./script.sh 
+ 1238  ll
+ 1239  rm -r env/
+ 1240  sudo chmod 777 script.sh 
+ 1241  rm -r env/
+ 1242  ls
+ 1243  ./script.sh 
+ 1244  nano script.sh 
+ 1245  rm -r env/
+ 1246  ./script.sh 
+ 1247  date
+ 1248  rm -r env/
+ 1249  nano script.sh 
+ 1250  ./script.sh 
+ 1251  nano script.sh 
+ 1252  source ./script.sh 
+ 1253  rm -r env/
+ 1254  source ./script.sh 
+ 1255  rm -r env/
+ 1256  nano script.sh 
+ 1257  rm -r env/
+ 1258  ./script.sh 
+ 1259  rm -r env/
+ 1260  nano script.sh 
+ 1261  source ./script.sh 
+ 1262  deactivate
+ 1263  rm -r env/ 
+ 1264  ls
+ 1265  nano sc.sh 
+ 1266  rm -r env/
+ 1267  source ./script.sh 
+ 1268  ./sc.sh 
+ 1269  deactivate
+ 1270  nano sc.sh 
+ 1271  rm -r env/
+ 1272  source ./script.sh 
+ 1273  ./sc.sh 
+ 1274  deactivate
+ 1275  rm -r env
+ 1276  ls
+ 1277  source ./script.sh 
+ 1278  ls
+ 1279  deactivate 
+ 1280  ls
+ 1281  ./sc.sh 
+ 1282  ls
+ 1283  nano script.sh 
+ 1284  pwd
+ 1285  nano script.sh 
+ 1286  ls
+ 1287  ды
+ 1288  ls
+ 1289  source ./script.sh 
+ 1290  deactivate 
+ 1291  rm -r env/
+ 1292  nano script.sh 
+ 1293  source ./script.sh 
+ 1294  ls
+ 1295  nano script.sh 
+ 1296  ls
+ 1297  mv requirements.txt requirements.txt
+ 1298  nano script.sh 
+ 1299  deactivate
+ 1300  rm - r env/
+ 1301  ll
+ 1302  rm -r env/
+ 1303  ll
+ 1304  source ./script.sh 
+ 1305  deactivate 
+ 1306  rm -r env/
+ 1307  nano script.sh 
+ 1308  source ./script.sh 
+ 1309  jobs 
+ 1310  jobs -l
+ 1311  sudo kill -9 15034
+ 1312  jobs -l
+ 1313  deactivate
+ 1314  rm -r env/
+ 1315  ls
+ 1316  git status
+ 1317  git add main.py requirements.txt script.sh 
+ 1318  git commit -m 'script + requirements + fix code'
+ 1319  git add .
+ 1320  git status
+ 1321  git rm repeat.txt 
+ 1322  git reset
+ 1323  git status
+ 1324  ll
+ 1325  git push
+ 1326  git lo
+ 1327  git log
+ 1328  git log -l
+ 1329  git log l
+ 1330  quit
+ 1331  ls
+ 1332  python3 main.py 
+ 1333  git status
+ 1334  git add main.py 
+ 1335  git commit -m 'add loop + change date'
+ 1336  git status
+ 1337  git add .
+ 1338  ls
+ 1339  git status
+ 1340  git reset
+ 1341  git status
+ 1342  git log
+ 1343  git diff f3d0f357b958d8c2c56084b2b465bf1b98ddaa4f
+ 1344  git status
+ 1345  git add -u
+ 1346  git --amend
+ 1347  git commit --amend
+ 1348  git push
+ 1349  git status
+ 1350  python3 main.py 
+ 1351  git status
+ 1352  git add repeat.txt 
+ 1353  git status
+ 1354  git reset
+ 1355  git status
+ 1356  git rm --cached data.py 
+ 1357  git status
+ 1358  ll
+ 1359  git add data.py 
+ 1360  ls
+ 1361  git status
+ 1362  git add repeat.txt 
+ 1363  git commit -m '21.07.2021'
+ 1364  git status
+ 1365  git reset repeat.txt
+ 1366  git status
+ 1367  git log
+ 1368  git log b512cf86d6c606d8f21a3b5671ac6fc89478148b
+ 1369  git dif b512cf86d6c606d8f21a3b5671ac6fc89478148b
+ 1370  git diff b512cf86d6c606d8f21a3b5671ac6fc89478148b
+ 1371  git status
+ 1372  git reset
+ 1373  git status
+ 1374  git reset HEAD
+ 1375  git status
+ 1376  git hist
+ 1377  git reset --hard
+ 1378  git status
+ 1379  git reset --hard v1
+ 1380  git lof
+ 1381  git log
+ 1382  git reset --hard add loop + change date
+ 1383  git resed HEAD~
+ 1384  git reset HEAD~
+ 1385  git status
+ 1386  nano data.py 
+ 1387  git clonehttps://github.com/Pasha-lt/test_git.git
+ 1388  git clone https://github.com/Pasha-lt/test_git.git
+ 1389  nano test.py
+ 1390  ls
+ 1391  git status
+ 1392  mv test.py test_git/test.py
+ 1393  ls
+ 1394  cd test_git/
+ 1395  git status
+ 1396  git add .
+ 1397  git commit -m '34'
+ 1398  git push
+ 1399  git status
+ 1400  git mv test.py tes.py
+ 1401  git status
+ 1402  ls
+ 1403  python3 
+ 1404  git log
+ 1405  ды
+ 1406  ls
+ 1407  git status
+ 1408  ls
+ 1409  git pull
+ 1410  git add -u
+ 1411  git status
+ 1412  git add -u
+ 1413  git status
+ 1414  git  commit -m 'fix issues'
+ 1415  git push
+ 1416  git branch developer
+ 1417  git branch
+ 1418  git checkout developer 
+ 1419  git status
+ 1420  ls
+ 1421  cd Module15
+ 1422  git status
+ 1423  git add .
+ 1424  git status
+ 1425  ls
+ 1426  git reset --hard origin/master
+ 1427  git checkout master
+ 1428  git pull
+ 1429  git reset --hard origin/master
+ 1430  git pull
+ 1431  git status
+ 1432  git add -u
+ 1433  git status
+ 1434  git commit -m 'fix issues'
+ 1435  git push
+ 1436  'привет'>1.txt
+ 1437  echo'привет'>1.txt
+ 1438  echo 'привет'>1.txt
+ 1439  ll
+ 1440  git add .
+ 1441  git status
+ 1442  git commit -m '2'
+ 1443  git push
+ 1444  nano tes.py 
+ 1445  git status
+ 1446  git add .
+ 1447  git commit -m '3ewe'
+ 1448  git push
+ 1449  ls
+ 1450  git log
+ 1451  git show
+ 1452  git log
+ 1453  git diff 
+ 1454  git diff 0752dfe39d2219d5fffa919b1c1c719d6d71830f 1d9313133900a6b64ee1e03b8b9eb682521c8604
+ 1455  git log 
+ 1456  git diff 3035cab986b02aafa44c34916e28c167a45976b6
+ 1457  git diff 3035cab986b02aafa44c34916e28c167a45976b6 0752dfe39d2219d5fffa919b1c1c719d6d71830f
+ 1458  git dif HEAD~1
+ 1459  git diff HEAD~1
+ 1460  git diff HEAD~5
+ 1461  git diff HEAD~3
+ 1462  git diff HEAD~2
+ 1463  git diff HEAD~0
+ 1464  git status
+ 1465  git diff English_bot.py
+ 1466  git diff --name-only HEAD~0
+ 1467  git diff --name-only HEAD~1
+ 1468  git status
+ 1469  git add -u
+ 1470  git commit -m 'fix hw 22_07-2021'
+ 1471  git push
+ 1472  ды
+ 1473  git status
+ 1474  git add -u
+ 1475  git status
+ 1476  git show
+ 1477  git status
+ 1478  git -u
+ 1479  git add -u
+ 1480  git commit
+ 1481  git status
+ 1482  ls
+ 1483  ./script.sh 
+ 1484  jobs -l
+ 1485  fg
+ 1486  jobs -l
+ 1487  ./script.sh 
+ 1488  source ./script.sh 
+ 1489  python3 main.py 
+ 1490  fg
+ 1491  jobs -l
+ 1492  fg
+ 1493  jobs -l
+ 1494  git status
+ 1495  git add -u
+ 1496  git status
+ 1497  git commit -m '22_07_2021_modification_word'
+ 1498  git push
+ 1499  ls
+ 1500  git status
+ 1501  cd test_git/
+ 1502  ls
+ 1503  git status
+ 1504  git  add .
+ 1505  git commit -m '3434'
+ 1506  git push
+ 1507  ls
+ 1508  nano 1.txt 
+ 1509  git status
+ 1510  git checkout 1.txt
+ 1511  ls
+ 1512  nano 1
+ 1513  git status
+ 1514  git show 1.txt
+ 1515  nano 1.txt 
+ 1516  git status
+ 1517  git --checkout 1.txt
+ 1518  ды
+ 1519  git show 1.txt
+ 1520  nano 1.txt 
+ 1521  git add .
+ 1522  git status
+ 1523  git reset HEAD 1.txt
+ 1524  git status
+ 1525  nano 1.txt 
+ 1526  git add .
+ 1527  git commit -m 'fd'
+ 1528  git show
+ 1529  nano 1.txt  
+ 1530  git status
+ 1531  git log
+ 1532  git status
+ 1533  git add .
+ 1534  git commit --amend
+ 1535  git log
+ 1536  git show
+ 1537  git log
+ 1538  git revert aae7d14a6a83be9270101ab6da2b1e114c09aeab
+ 1539  ды
+ 1540  ls
+ 1541  nano 1.txt 
+ 1542  giy status
+ 1543  git status
+ 1544  git reset --hard 71830f
+ 1545  git reset --hard 1d9313133900a6b64ee1e03b8b9eb682521c8604
+ 1546  git log
+ 1547  ks
+ 1548  ls
+ 1549  nano 1.txt 
+ 1550  git add .
+ 1551  git commit -m 'new commit'
+ 1552  git reset --hard
+ 1553  ls
+ 1554  git log
+ 1555  nano 1.txt 
+ 1556  ls
+ 1557  rm 1.txty
+ 1558  ls
+ 1559  nano tes.py 
+ 1560  git add 1.txt 
+ 1561  ls
+ 1562  git sttus
+ 1563  git status
+ 1564  git reset --hard
+ 1565  ls
+ 1566  nano 1.txt 
+ 1567  nano tes.py 
+ 1568  git pull
+ 1569  git log
+ 1570  ls
+ 1571  nano 
+ 1572  ls
+ 1573  nano 1.txt 
+ 1574  nano tes.py 
+ 1575  git add .
+ 1576  git commit -m 'new comm 22'
+ 1577  git log
+ 1578  git reset --soft 0f3d52e373b36824fe037748c083765e8e25ef62
+ 1579  ls
+ 1580  nano 1.txt 
+ 1581  git status
+ 1582  git log
+ 1583  git commit -m 'after soft reset'
+ 1584  git log
+ 1585  git status
+ 1586  git reset --mixed 0f3d52e373b36824fe037748c083765e8e25ef62 
+ 1587  git status
+ 1588  git log
+ 1589  git commit -am 'new branch use --mixed'
+ 1590  git log
+ 1591  cd english_application/
+ 1592  ls
+ 1593  rm -r env/
+ 1594  ls
+ 1595  source ./script.sh 
+ 1596  python3 main.py 
+ 1597  git status
+ 1598  git add -u
+ 1599  python3 main.py 
+ 1600  git status
+ 1601  git add -u
+ 1602  git show
+ 1603  git commit -m 'version 1.01'
+ 1604  git push
+ 1605  git show
+ 1606  python3 main.py 
+ 1607  python3
+ 1608  fg
+ 1609  python3 main.py 
+ 1610  source ./script.sh 
+ 1611  python3 main.py 
+ 1612  ls
+ 1613  pwd
+ 1614  git status 
+ 1615  git add -u
+ 1616  git status 
+ 1617  git commit 'version 1.02'
+ 1618  git commit -m 'version 1.02'
+ 1619  git push
+ 1620  sudo netstat -ltnp | grep -w ':8081'
+ 1621  sudo netstat -ltnp | grep -w ':8080'
+ 1622  sudo netstat -ltnp | grep -w ':80'
+ 1623  sudo netstat -ltnp | grep -w ':8081'
+ 1624  sudo fuser -n tcp -k 8080
+ 1625  sudo netstat -ltnp | grep -w ':8080'
+ 1626  sudo docker container ls
+ 1627  sudo docker container ls -a
+ 1628  ps aux | grep docker
+ 1629  killall 2213
+ 1630  killall docker
+ 1631  sudo killall docker
+ 1632  sudo
+ 1633  sudo docker container ls -a
+ 1634  up time
+ 1635  uptime
+ 1636  cd /usr/bin/docker/
+ 1637  cd home/usr/bin/docker/
+ 1638  cd /usr/bin/docker
+ 1639  pwc
+ 1640  pwd
+ 1641  tree /usr/bin
+ 1642  cd /usr/bin
+ 1643  ll
+ 1644  grep Docker
+ 1645  grep Docker ./
+ 1646  nano docker
+ 1647  vi docker
+ 1648  sudo nano docker
+ 1649  ll
+ 1650  sudo docker image build -f dockerfile -t mybild
+ 1651  sudo docker image build -f dockerfile -t mybild .
+ 1652  sudo docker image ls
+ 1653  sudo docker start mybild
+ 1654  sudo docker image start mybild
+ 1655  sudo docker image build mybild
+ 1656  sudo docker container start mybild
+ 1657  sudo docker image run mybild
+ 1658  sudo docker images run mybild
+ 1659  docker run mybild:v1
+ 1660  docker run mybild
+ 1661  sudo docker container ls
+ 1662  sudo docker image ls
+ 1663  sudo docker images ls
+ 1664  sudo docker container commit my_bild container_from_image 
+ 1665  sudo docker container my_bild container_from_image 
+ 1666  sudo docker container create my_bild container_from_image 
+ 1667  sudo docker image ls
+ 1668  docker login
+ 1669  sudo docker container commit my_bild container_from_image
+ 1670  sudo docker container commit my_bild pash2/container_from_image
+ 1671  cd usr/bin
+ 1672  cd /usr/bin
+ 1673  ll
+ 1674  cd ..
+ 1675  grep 'conteiner_from_image'
+ 1676  find --name "*container_from_image*"
+ 1677  find -name "*container_from_image*"
+ 1678  find -name "container_from_image"
+ 1679  find -name "container_from_image" /
+ 1680  find -name "container_from_image" ./
+ 1681  find / -name "container_from_image" 
+ 1682  sudo find / -name "container_from_image" 
+ 1683  sudo find  -name "container_from_image" 
+ 1684  find . -mount -type f -size +1G 2>/dev/null
+ 1685  св
+ 1686  cd
+ 1687  find . -mount -type f -size +1G 2>/dev/null
+ 1688  find . -mount -type f -size +5G 2>/dev/null
+ 1689  sudo docker container exec -it brave_cori ping 172.17.0.4
+ 1690  sudo docker container exec -it brave_cori ping 172.17.0.2
+ 1691  sudo docker container exec -it brave_cori ping 172.20.0.2
+ 1692  pw
+ 1693  pwd
+ 1694  docker
+ 1695  docker help
+ 1696  sudo docker --version
+ 1697  clear
+ 1698  ps aux| grep nging
+ 1699  ps aux| grep nging | grep -v grep
+ 1700  sudo docker container run --publish 80:80 nginx
+ 1701  sudo docker container run --publish 8081:80 nginx
+ 1702  sudo docker container run --publish 8080:80 nginx
+ 1703  sudo docker container run 8080:80 nginx
+ 1704  sudo docker container run --publish 8080:80 nginx  - поднять докер контейнер на порте 8080 порт докера 80
+ 1705  sudo docker container run -detach --publish 8080:80 nginx
+ 1706  fg
+ 1707  job -l
+ 1708  jobs -l
+ 1709  sudo docker container prune
+ 1710  sudo docker container logs my_nginx
+ 1711  sudo docker container logs my_nging
+ 1712  sudo docker container logs my_nging - посмотреть логи контейнера по его имени
+ 1713  sudo docker container top my_nging
+ 1714  sudo docker container top my_nging - показать процесы в конкретном контейнеры
+ 1715  sudo docker container stop my_nging
+ 1716  sudo docker container stop my_nging - остановить контейнер
+ 1717  sudo docker container ды
+ 1718  sudo docker container ls
+ 1719  start заупскает уже существующий контейнер а run создает и запускае
+ 1720  sudo docker container stats my_nging
+ 1721  sudo docker container stats my_nging - посмотреть нагрузки от данного контейнера
+ 1722  history
+ 1723  sudo docker container inspect my_nging
+ 1724  sudo docker container inspect my_nging - инфа по контейнеру
+ 1725  sudo docker container run it --publish 8083:80 --name my_nginx nginx bash
+ 1726  sudo docker container run -it --publish 8083:80 --name my_nginx nginx bash
+ 1727  sudo docker container run -it --publish 8083:80 --name my_nginx nginx bash - открыть в контейнера баш и с помощью него можно иследовать
+ 1728  sudo docker container run -it --publish 8083:80 --name my_nginx nginx bash
+ 1729  sudo docker container run -it --publish 8084:80 --name my_nginx nginx bash
+ 1730  sudo docker container run -it --publish 8084:80 --name my_nginx2 nginx bash
+ 1731  sudo docker start my_ngin2
+ 1732  sudo docker start my_nginx2
+ 1733  ps aux
+ 1734  sudo docker container ls -a
+ 1735  sudo docker container stop c5392ee68abb
+ 1736  sudo docker container ls -a
+ 1737  sudo docker container start c5392ee68abb
+ 1738  sudo docker container ls -a
+ 1739  sudo docker container run c5392ee68abb
+ 1740  sudo docker container run --publish 8085:80 --name my_nginx3 nginx 
+ 1741  sudo docker container prune
+ 1742  sudo docker container ls -a
+ 1743  sudo docker container prune - убивает все кроме запущеных контейнеров
+ 1744  cntr + r режим reverse i search поиск с начала команд при переборе стрелками
+ 1745  cntr + r режим reverse i search поиск когда ты вводишь слова и они являються частью команды
+ 1746  sudo docker container exec -it my_nginx2 - присоедениться и вводить команды с существующим контейнером
+ 1747  history
+ 1748  sudo docker container exec -it my_nginx2 bash - присоединиться и вводить команды с существующим контейнером верхняя не полная
+ 1749  sudo docker container exec -it my_nginx2 bash
+ 1750  sudo docker container ls -a
+ 1751  sudo docker container exec -it my_nginx2 bash
+ 1752  sudo docker container ls -a
+ 1753  sudo docker start my_nginx2
+ 1754  sudo docker up my_nginx2
+ 1755  sudo docker my_nginx2 up
+ 1756  sudo docker stop my_nginx2
+ 1757  sudo docker start my_nginx2
+ 1758  sudo docker container start my_nginx2
+ 1759  sudo docker container stop my_nginx2
+ 1760  sudo docker container build my_nginx2
+ 1761  sudo docker container start my_nginx2
+ 1762  sudo docker container up my_nginx2
+ 1763  sudo docker container start' my_nginx2
+ 1764  exit
+ 1765  sudo docker container start my_nginx2
+ 1766  sudo docker ls -a
+ 1767  sudo docker container ls -
+ 1768  sudo docker container exec -it my_nginx2 bash
+ 1769  sudo docker container exec -it brave_cori bash
+ 1770  sudo docker ls -a
+ 1771  sudo docker container ls -a
+ 1772  sudo docker container stop my_nginx2 
+ 1773  sudo docker container ls -a
+ 1774  sudo docker container run -detach --publish 8080:80 nginx
+ 1775  sudo docker container run -detach --publish 8080:80 nginx - сделать в бекграунде
+ 1776  sudo docker container stop brave_cori 
+ 1777  sudo docker container start -ai brave_cori 
+ 1778  sudo docker container start -ai brave_cori  - тоже что и вначале ран с стдоут и стерор
+ 1779  sudo docker container -help
+ 1780  sudo docker container exec -help
+ 1781  sudo docker network ls
+ 1782  sudo docker network ls - вывод сетей
+ 1783  docker container ls -la
+ 1784  docker container ls -l
+ 1785  docker container ls -a
+ 1786  sudo docker container ls -a
+ 1787  sudo docker container start brave_cori 
+ 1788  sudo docker container ls -a
+ 1789  history
+ 1790  sudo docker container inspect brave_cori 
+ 1791  sudo docker container inspect brave_cori | grep ip
+ 1792  sudo docker container inspect brave_cori | grep "ip"
+ 1793  echo sudo docker container inspect brave_cori | grep "ip"
+ 1794  docker container inspect brave_cori | grep "ip"
+ 1795  docker container inspect brave_cori | xargs grep "ip" 
+ 1796  docker container inspect brave_cori | xargs| grep "ip" 
+ 1797  docker container inspect brave_cori | grep IP 
+ 1798  docker container inspect brave_cori | grep -i ip 
+ 1799  ls
+ 1800  sudo docker container ls -a
+ 1801  sudo docker container start my_nginx2 
+ 1802  sudo docker container ls -a
+ 1803  sudo docker container start kind_buck
+ 1804  sudo docker container start nice_ecuclid
+ 1805  sudo docker container run -detach --publish 8085:80 --name nginx5 nginx
+ 1806  sudo docker container ls -a
+ 1807  docker container inspect brave_cori | grep -i ipaddres 
+ 1808  docker container inspect nginx5 | grep -i ipaddres 
+ 1809  docker container inspect nginx5 | grep -i ipaddres | grep -v grep
+ 1810  docker container inspect nginx5 | grep -i ipaddres - смотрим айпи контейнера через греп
+ 1811  sudo docker container exec -it brave_cori apt install -y iputils-ping
+ 1812  sudo docker container exec -it nginx5 apt install -y iputils-ping
+ 1813  sudo docker container exec -it nginx5 apt 
+ 1814  sudo docker container exec -it brave_cori ping 172.17.0.4
+ 1815  sudo docker container exec -it brave_cori ping 172.17.0.4 - передача с одного докер контейнера на другой по сути bridge
+ 1816  sudo docker container
+ 1817  sudo docker container ls
+ 1818  sudo docker container stop c5392ee68abb
+ 1819  sudo docker container ls
+ 1820  sudo docker container exec -it nginx5 apt update && apt install net-tools
+ 1821  sudo docker container exec -it nginx5 ifconfig
+ 1822  sudo docker container exec -it nginx5 apt install tcpdump
+ 1823  sudo docker container exec -it nginx5 tcpdump
+ 1824  sudo docker container exec -it nginx5 apt install tcpdump
+ 1825  sudo docker container exec -it nginx5 tcpdump
+ 1826  history
+ 1827  sudo docker container exec -it nginx5 tcpdump - прини
+ 1828  sudo docker network create -d bridge nginx5
+ 1829  sudo docker network ls
+ 1830  sudo docker network create -d bridge network - 
+ 1831  sudo docker network create -d bridge network
+ 1832  sudo docker network create -d bridge network5
+ 1833  sudo docker network ls
+ 1834  sudo docker network ls - смотреть сети
+ 1835  ршыещкн
+ 1836  history
+ 1837  sudo docker network5 inspect bridge  
+ 1838  sudo docker network inspect network5
+ 1839  sudo docker network inspect network5 - посмотреть настройки указаной сети
+ 1840  sudo docker network inspect network5 | grep Name
+ 1841  sudo docker network inspect bridge | grep Name
+ 1842  sudo docker network inspect bridge | grep Name - смотрим какие контейнеры подключенны к этой сети
+ 1843  sudo docker network connect nginx5 network5
+ 1844  sudo docker container ls
+ 1845  sudo docker network connect network5 ng
+ 1846  sudo docker network connect network5 nginx5 - привязка контейнера к сети сначала пишем сеть потомконтейнер
+ 1847  sudo docker network inspect network5
+ 1848  sudo docker network inspect bridge | grep Name
+ 1849  sudo docker network inspect mynetwork5 | grep Name
+ 1850  sudo docker network inspect network5 | grep Name
+ 1851  sudo docker network connect network5 brave_cori 
+ 1852  sudo docker network inspect network5 | grep Name
+ 1853  sudo docker conttiner exec -it brave_cori ifconfif
+ 1854  sudo docker conttiner exec -it brave_cori ifconfig
+ 1855  sudo docker container exec -it brave_cori ifconfig
+ 1856  sudo docker container exec -it nginx5 ifconfig
+ 1857  sudo docker container ls
+ 1858  sudo docker container exec -it brave_cori ifconfig
+ 1859  sudo docker container exec -it brave_cori apt update
+ 1860  sudo docker container exec -it brave_cori ifconfig
+ 1861  sudo docker container exec -it 87593b7390f8 ifconfig
+ 1862  docker container exec -it brave_cori ifconfig
+ 1863  docker container exec -it brave_cori bash
+ 1864  sudo docker container ls
+ 1865  docker container exec -it brave_cori ifconfig
+ 1866  sudo docker container exec -it brave_cori ifconfig
+ 1867  sudo docker conttiner exec -it brave_cori -I eth1
+ 1868  sudo docker conttiner exec -it brave_cori tcpdump -I eth1
+ 1869  sudo docker container exec -it brave_cori tcpdump -I eth1
+ 1870  sudo docker container exec -it ngninx5  tcpdump -I eth1
+ 1871  sudo docker container exec -it ngninx5 tcpdump -I eth1
+ 1872  sudo docker container exec -it brave_cori ifconfig
+ 1873  sudo docker container exec -it nginx5 ifconfig
+ 1874  sudo docker container exec -it nginx5 tcpdump -I eth1
+ 1875  sudo docker container exec -it nginx5 tcpdump -I eth0
+ 1876  sudo docker container exec -it nginx5 apt install tcpdump
+ 1877  sudo docker container exec -it nginx5 tcpdump -I eth0
+ 1878  sudo docker container exec -it nginx5 tcpdump -I eth1
+ 1879  sudo docker container exec -it nginx5 tcpdump
+ 1880  sudo docker container exec -it nginx5 tcpdump -i eth1
+ 1881  sudo docker container exec -it nginx5 tcpdump -i eth1 - прием пакетов на второй сети eth1 важно чтобы флаг был с маленькой буквой
+ 1882  sudo docker container exec -it nginx5 ifconfig
+ 1883  sudo docker container exec -it nginx5 tcpdump -i eth1
+ 1884  sudo docker network inspect network5
+ 1885  sudo docker network inspect network5 | grep -i ipv4
+ 1886  sudo docker network inspect network5 | grep -i ipv4 - смотрим в нашей не дефолтной сети айпи койтейнеров 
+ 1887  sudo docker container exec -it nginx5 tcpdump -i eth1
+ 1888  sudo docker container run -it --detach --network network5 --publish 8086:80 --name nginx6 nginx - Создание нового контейнера в создданой нашей сети
+ 1889  sudo docker network ls
+ 1890  sudo docker network inspect network5 | grep -i ipv4
+ 1891  sudo docker network inspect network5
+ 1892  sudo docker container ls
+ 1893  sudo docker container run -it --detach --network network5 --publish 8087:80 --name nginx7 nginx
+ 1894  sudo docker container ls
+ 1895  sudo docker network inspect network5 | grep -i ipv4
+ 1896  history>docker_with_tolya.txt
+ 1897  ls
+ 1898  mv docker_with_tolya.txt Desktop/docker_with_tolya.txt 
+ 1899  ls Desktop/
+ 1900  ll Desktop/
+ 1901  sudo docker network disconnect network5 nginx7
+ 1902  sudo docker network inspect network5 | grep -i ipv4
+ 1903  sudo docker images ls
+ 1904  sudo docker container ls
+ 1905  sudo docker image ls
+ 1906  sudo docker image pull alpine
+ 1907  sudo docker image ls
+ 1908  sudo docker image ls - посмотреть какие есть имейджы
+ 1909  sudo docker image pull alpine - скачать образ(имейдж) докера
+ 1910  sudo docker inspect image nginx
+ 1911  sudo docker inspect image nginx | teil
+ 1912  sudo docker inspect image nginx | cat
+ 1913  sudo docker inspect image nginx | nano
+ 1914  sudo docker inspect image nginx - показывает с чего состоит докер имейдж
+ 1915  ls
+ 1916  nano dockerfile
+ 1917  which docker image pull alpine
+ 1918  nano /usr/bin/docker
+ 1919  nano /usr/bin/docker/Docker
+ 1920  ls ll /usr/bin/docker/
+ 1921  ls /usr/bin/docker/
+ 1922  ls ~/usr/bin/docker/
+ 1923  ll
+ 1924  docker image pull alpine
+ 1925  which docker image pull alpine
+ 1926  ll /usr/bin/docker
+ 1927  ll
+ 1928  ll /usr/bin/docker
+ 1929  nano /usr/bin/docker
+ 1930  which docker image alpine
+ 1931  which docker
+ 1932  which
+ 1933  docker login
+ 1934  sudo docker container commit my_bild pash2/container_from_image
+ 1935  sudo docker container commit mybild pash2/container_from_image
+ 1936  sudo docker container commit mybild container_from_image
+ 1937  docker image ls
+ 1938  sudo docker container commit nginx7 container_from_image
+ 1939  sudo docker image commit mybild container_from_image
+ 1940  docker image ls
+ 1941  docker container ls 
+ 1942  sudo docker image commit mybild container_from_image - з контейнера зробыты имейдж
+ 1943  sudo docker container commit nginx7 container_from_image -з контейнера зробити имейдж команды выше неправильная
+ 1944  sudo docker push
+ 1945  sudo docker image push
+ 1946  sudo docker image --help
+ 1947  sudo docker image push
+ 1948  sudo docker image push container_from_image
+ 1949  sudo docker logout
+ 1950  sudo docker login
+ 1951  docker login
+ 1952  docker logout
+ 1953  docker login --help
+ 1954  docker login -u
+ 1955  docker login --u
+ 1956  docker login -u
+ 1957  docker login u
+ 1958  sudo docker image save container_from_image
+ 1959  sudo docker image save -o  container_from_image
+ 1960  sudo docker image save container_from_image
+ 1961  sudo docker save -o IMAGE container_from_image
+ 1962  ls
+ 1963  ll
+ 1964  sudo docker save -o IMAGE container_from_image 123
+ 1965  which docker save -o IMAGE container_from_image
+ 1966  sudo docker save -o IMAGE container_from_image - сохранения образа докера
+ 1967  sudo docker save -o IMAGE container_from_image
+ 1968  history Desktop/docker_whith_tolya2.txt
+ 1969  history > Desktop/docker_whith_tolya2.txt
+ 1970  uname -a
+ 1971  man uname
+ 1972  echo $PATH
+ 1973  man -k down
+ 1974  whatis uptime
+ 1975  uptime
+ 1976  whereis uptime
+ 1977  locate uptime
+ 1978  man locate
+ 1979  ls
+ 1980  mkdir new_folder
+ 1981  uptime>file1.txt
+ 1982  history>file2.txt
